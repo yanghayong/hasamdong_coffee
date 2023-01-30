@@ -18,6 +18,8 @@ ul {
   background-image: url(../images/background_01.png);
   background-size: 100%;
   background-repeat: no-repeat;
+  width: 100vw;
+  position: fixed;
 }
 
 .head .logo img {
