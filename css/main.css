@@ -82,12 +82,13 @@ main .text_box .inner {
 
 .text_box h4 {
   font-weight: bolder;
+  font-size: 20px;
 }
 
 .text_box h2 {
   font-size: 26px;
   font-weight: normal;
-  margin-top: 22px;
+  margin-top: 30px;
 }
 
 .text_box p {
@@ -95,6 +96,7 @@ main .text_box .inner {
   margin: 0 auto;
   line-height: 2;
   margin-bottom: 50px;
+  font-size: 18px;
 }
 
 .text_box .wave {
